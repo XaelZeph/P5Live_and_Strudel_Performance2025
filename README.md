@@ -1,5 +1,5 @@
 # P5Live_and_Strudel_Performance2025
-Code for a P5Live and Strudel live coding performance, performed by Xael (XaelZeph) and Gray (GraytheCloud) in Fall of 2025
+Code and [video](https://drive.google.com/file/d/1sJU8Qv0A9UIE-ax3_tXdQIFVJ4u1ES3V/view?usp=sharing) for a P5Live and Strudel live coding performance, performed by Xael (XaelZeph) and Gray (GraytheCloud) in Fall of 2025
 
 ## How to perform it yourself
 ### P5Live
